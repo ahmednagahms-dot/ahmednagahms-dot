@@ -1,28 +1,26 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Ahmed Sharaf.</h1>
 
-<p>Welcome to my GitHub! </br> 
-I'm an <b>IT Student</b> and an aspiring <b>Fullstack Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Egypt</b>. 
-Currently, I am focused on mastering Front-End technologies and JavaScript OOP, while preparing for my journey into Fullstack development.
-</p>
+<p>Welcome to my GitHub! </br> I'm an <b>Information Technology Student</b> and an aspiring <b>Fullstack Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Egypt</b>. Currently focusing on mastering Front-End technologies while transitioning into Fullstack development.</p>
 
-<h3>Things I'm currently using</h3>
+<h3>Things I code with</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h3>My Roadmap 🚀</h3>
-<ul>
-  <li>✅ <b>Front-End Foundations:</b> HTML5, CSS3, Tailwind.</li>
-  <li>🚧 <b>Current Focus:</b> JavaScript OOP & Advanced Concepts.</li>
-  <li>🔜 <b>Next Steps:</b> Learning Next.js, building a comprehensive Front-End project.</li>
-  <li>🔮 <b>Long-term Goal:</b> Full-Stack Development (Back-End integration).</li>
-</ul>
+<h3>Currently Learning 🚀</h3>
+<p>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <span><b>& building Full-Stack applications at SFT Academy!</b></span>
+</p>
 
-<h3>Featured Projects</h3>
+<h3>Top Projects</h3>
 <table>
   <thead align="center">
     <tr>
@@ -42,6 +40,11 @@ Currently, I am focused on mastering Front-End technologies and JavaScript OOP, 
       <td><a href="https://ahmednagahms-dot.github.io/First-Project-HTML5-CSS3/">Visit Site</a></td>
       <td>HTML5, CSS3</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ahmednagahms-dot/First-HTML-CSS-project"><b>Coffee House</b></a></td>
+      <td><a href="https://ahmednagahms-dot.github.io/First-HTML-CSS-project/">Visit Site</a></td>
+      <td>HTML, CSS</td>
+    </tr>
   </tbody>
 </table>
 
@@ -52,4 +55,8 @@ Currently, I am focused on mastering Front-End technologies and JavaScript OOP, 
   <a href="mailto:ahmednagahms@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Building the future, one line of code at a time.</i></p>
+------------
+<p align="center">"Code is like humor. When you have to explain it, it’s bad."</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmednagahms-dot&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
+</p>
