@@ -42,8 +42,8 @@
       <td>Tailwind, HTML5</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ahmednagahms-dot/Frist-Project-HTML5-CSS3"><b>Style Fashion Store</b></a></td>
-      <td><a href="https://ahmednagahms-dot.github.io/Frist-Project-HTML5-CSS3/">Visit Site</a></td>
+      <td><a href="https://github.com/ahmednagahms-dot/Project-HTML5-CSS3"><b>Style Fashion Store</b></a></td>
+      <td><a href="https://ahmednagahms-dot.github.io/Project-HTML5-CSS3/">Visit Site</a></td>
       <td>HTML5, CSS3</td>
     </tr>
 
