@@ -31,6 +31,11 @@
     </tr>
   </thead>
   <tbody>
+       <tr>
+      <td><a href="https://github.com/ahmednagahms-dot/First-project-js"><b>Coffee House</b></a></td>
+      <td><a href=["https://ahmednagahms-dot.github.io/First-project-js/">Visit Site</a></td>
+      <td>HTML, CSS</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ahmednagahms-dot/First-Project-tailwind-css"><b>DigitalPro Agency</b></a></td>
       <td><a href="https://ahmednagahms-dot.github.io/First-Project-tailwind-css/">Visit Site</a></td>
@@ -41,11 +46,7 @@
       <td><a href="https://ahmednagahms-dot.github.io/First-Project-HTML5-CSS3/">Visit Site</a></td>
       <td>HTML5, CSS3</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/ahmednagahms-dot/First-HTML-CSS-project"><b>Coffee House</b></a></td>
-      <td><a href="https://ahmednagahms-dot.github.io/First-HTML-CSS-project/">Visit Site</a></td>
-      <td>HTML, CSS</td>
-    </tr>
+
   </tbody>
 </table>
 
