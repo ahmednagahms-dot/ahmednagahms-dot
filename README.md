@@ -32,14 +32,14 @@
   </thead>
   <tbody>
        <tr>
-      <td><a href="https://github.com/ahmednagahms-dot/First-project-js"><b>Coffee House</b></a></td>
-      <td><a href=["https://ahmednagahms-dot.github.io/First-project-js/">Visit Site</a></td>
-      <td>HTML, CSS</td>
+      <td><a href="https://github.com/ahmednagahms-dot/First-project-js"><b>ShopEase </b></a></td>
+      <td><a href="https://ahmednagahms-dot.github.io/First-project-js/">Visit Site</a></td>
+      <td>HTML,css,Tailwind,js</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ahmednagahms-dot/First-Project-tailwind-css"><b>DigitalPro Agency</b></a></td>
       <td><a href="https://ahmednagahms-dot.github.io/First-Project-tailwind-css/">Visit Site</a></td>
-      <td>Tailwind CSS, HTML5</td>
+      <td>Tailwind, HTML5</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ahmednagahms-dot/First-Project-HTML5-CSS3"><b>Style Fashion Store</b></a></td>
